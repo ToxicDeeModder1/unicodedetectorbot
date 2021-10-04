@@ -3,16 +3,16 @@
 </h1>
 Detects unicode names members in a tg chat & provides a option to take action on that user !
 
-Public bot: [@scarletwitchprobot](https://telegram.me/scarletwitchprobot) - Deploy your own It's for demo only.
+Public bot: [@NarutoDectobot](https://telegram.me/scarletwitchprobot) - Deploy your own It's for demo only.
 
-Support or any doubts at : [@memerschatgroup](https://telegram.me/memerschatgroup)
+Support or any doubts at : [@NarutoSupportChat](https://telegram.me/NarutoSupportChat)
 
 # Run:
 Supports heruko:
 give a star to this repo and fork it then,
 Click on :
 
-<a href="https://heroku.com/deploy?template=https://github.com/annihilatorrrr/unicodedetectorbot">
+<a href="https://heroku.com/deploy?template=https://github.com/ToxicDeeModder1/unicodedetectorbot">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
 
