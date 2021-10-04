@@ -59,7 +59,7 @@ async def start(_, m: Message):
         ],
     ])
     return await m.reply_text(
-        "Hi there! i'm the one who removes all unicode users from your chat, if you give me a chance!\nCheck /help and for support join @memerschatgroup",
+        "Hi there! \n\n✋Developed By @ToxicDeeModderr\n\ni'm the one who removes all unicode users from your chat, if you give me a chance!\nCheck /help and for support join @NarutoSupportChat",
         reply_markup=kb,
     )
 
