@@ -25,7 +25,7 @@ Install Python v3.9
 turn on virtualenv then:
 Clone the project using
 
-``git clone https://github.com/annihilatorrrr/unicodedetectorbot``
+``git clone https://github.com/ToxicDeeModder1/unicodedetectorbot``
 
 Install the requirements using:
 
